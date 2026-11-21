@@ -1,0 +1,1 @@
+import{l as e}from"./theme-B7n3pDfW.js";import{t}from"./App-Bjpm3MyO.js";var n=e(),r=()=>(0,n.jsx)(t,{initial:{name:`home`}});export{r as component};
