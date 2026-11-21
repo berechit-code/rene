@@ -1,0 +1,1 @@
+import{l as e}from"./theme-CSkArjGH.js";import{t}from"./_shopId-C1OdtsVa.js";import{t as n}from"./PrintPoster-mbPynj4o.js";var r=e();function i(){let{shopId:e}=t.useParams(),{template:i}=t.useSearch();return(0,r.jsx)(n,{shopId:e,kind:`raise`,template:i})}export{i as component};

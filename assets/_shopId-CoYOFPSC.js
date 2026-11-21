@@ -1,0 +1,1 @@
+import{l as e}from"./theme-CSkArjGH.js";import{t}from"./_shopId-C1-G9NYY.js";import{t as n}from"./App-Jz48stGe.js";var r=e();function i(){let{shopId:e}=t.useParams(),{apply:i}=t.useSearch();return(0,r.jsx)(n,{initial:i?{name:`shop`,id:e,apply:i}:{name:`shop`,id:e}})}export{i as component};

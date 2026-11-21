@@ -1,0 +1,1 @@
+import{s as e}from"./theme-CSkArjGH.js";var t=/^(localhost|127\.|\[::1\]|10\.|192\.168\.|172\.(1[6-9]|2\d|3[01])\.)/;function n(){return`https://teanit-sprout-studio.lovable.app`.includes(`YOUR-APP`)?``:e.replace(/\/+$/,``)}function r(){return n()||window.location.origin}var i=()=>t.test(new URL(r()).hostname);export{r as n,i as r,n as t};

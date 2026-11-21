@@ -1,1 +1,0 @@
-import{l as e}from"./theme-B7n3pDfW.js";import{t}from"./_shopId-Bt6MylPU.js";import{t as n}from"./PrintPoster-DchNeFVW.js";var r=e();function i(){let{shopId:e}=t.useParams(),i=t.useSearch();return(0,r.jsx)(n,{shopId:e,kind:`successor`,template:i.template,headline:i.h,subline:i.s,offers:i.o?i.o.split(`|`):void 0,profiles:i.p?i.p.split(`|`):void 0,cta:i.c})}export{i as component};

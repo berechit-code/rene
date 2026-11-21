@@ -1,1 +1,0 @@
-import{s as e}from"./theme-B7n3pDfW.js";var t=/^(localhost|127\.|\[::1\]|10\.|192\.168\.|172\.(1[6-9]|2\d|3[01])\.)/;function n(){return`https://rbadriorz.github.io`.includes(`YOUR-APP`)?``:e.replace(/\/+$/,``)}function r(){return n()||window.location.origin}var i=()=>t.test(new URL(r()).hostname);export{r as n,i as r,n as t};

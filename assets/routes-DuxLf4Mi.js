@@ -1,0 +1,1 @@
+import{l as e}from"./theme-CSkArjGH.js";import{t}from"./App-Jz48stGe.js";var n=e(),r=()=>(0,n.jsx)(t,{initial:{name:`home`}});export{r as component};
